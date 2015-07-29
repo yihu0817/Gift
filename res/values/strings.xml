@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">天降宝箱</string>
+     <!-- 宝箱 -->
+    <string name="gift_get_fail">领取失败，你已失去此次领取机会</string>
+    <string name="gift_disposing">宝箱数据正在处理中</string>
+
+</resources>
